@@ -7,7 +7,7 @@
 
 ### Scripts
 
-* [Parse ToI](scripts/0_parse.py)
+* [Parse ToI](scripts/01_parse_toi.ipynb)
 
 fields
 
