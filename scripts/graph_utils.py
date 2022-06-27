@@ -217,3 +217,38 @@ def plot_dual_indices(y1,y2,x, title=None, yrange=None, xrange=None, color1=PURP
 def save_mpl_fig(savepath):
     plt.savefig(f'{savepath}.pdf', dpi=None, bbox_inches='tight', pad_inches=0)
     plt.savefig(f'{savepath}.png', dpi=120, bbox_inches='tight', pad_inches=0)
+
+
+def dow_plot(y,x,data):
+    dow = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+
+    fig, ax = plt.subplots(figsize=(12*.5, 8*.5))
+
+    sns.pointplot(x=x, y=y, data=data, 
+                  color='black',
+                  order=dow,
+                  ci=95,
+                  errwidth=2, 
+                  join=False,
+                  ax=ax
+                 )
+    sns.pointplot(x=x, y=y, data=data, 
+                  ci=None, 
+                  order=dow,
+                  capsize=None,
+                  markers="",
+                  join=True,
+                  linestyles='--',
+                  errwidth=2, # error bar width
+                  scale = .8,
+                  color='dimgray',
+                  zorder=0,
+                  ax=ax)
+
+    plt.xlabel('Day of the Week')
+    plt.ylabel('')
+    plt.xticks(size=9)
+    plt.title('Number of TOI articles per day-of-week', fontweight='bold', loc='left', size=14)
+    plt.yticks(range(10,35,5))
+
+    return ax
