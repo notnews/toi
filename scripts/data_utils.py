@@ -61,6 +61,19 @@ def clean_transcripts(text):
     return text.lower()
 
 
+def fix_separated_words(string):
+    """
+        E.g.: 
+            "in different units particular- ly" --> "in different units particularly"
+    """
+    re_extra_whitespaces = re.compile(r"\s+")
+    string = re_extra_whitespaces.sub(" ", string).strip()  
+    
+    string = string.replace('- ', '')
+    
+    return string
+
+
 def flesch(text):
     r = Readability(text)
     try:
@@ -120,3 +133,8 @@ def hdd(text):
         return lex.hdd(draws=42)
     else:
         return None
+
+
+import winsound
+def beepme(freq=500,duration=5000):
+    winsound.Beep(freq, duration)
