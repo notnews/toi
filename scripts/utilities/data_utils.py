@@ -3,6 +3,8 @@ import sys
 from lexicalrichness import LexicalRichness
 from readability import Readability
 import numpy as np
+import os
+
 
 def clean_transcripts(text):
     """ This function applies minimal normalisation to transcript texts:
@@ -26,38 +28,38 @@ def clean_transcripts(text):
         * Removes extra white spaces 
             (e.g. "...United States.        Now..." -->  "...United States. Now...")        
     """
-    
+
     # Remove parentheses
-    re_parenthesis = re.compile(r'\([^)]*\)')
-    text = re_parenthesis.sub('', text).strip()
+    re_parenthesis = re.compile(r"\([^)]*\)")
+    text = re_parenthesis.sub("", text).strip()
 
     # Remove transcript breaks
-    re_transcriptbreaks = re.compile(r'[^\.]+:')
-    text = re_transcriptbreaks.sub('', text).strip()
-    
+    re_transcriptbreaks = re.compile(r"[^\.]+:")
+    text = re_transcriptbreaks.sub("", text).strip()
+
     # Remove digits
-    re_digits = re.compile(r'[0-9]+')
-    text = re_digits.sub('', text).strip()
+    re_digits = re.compile(r"[0-9]+")
+    text = re_digits.sub("", text).strip()
 
     # Removes '/'
-    text = text.replace('\\', '')
+    text = text.replace("\\", "")
 
     # Replace dashes/hyphens
     if sys.version_info[0] == 3:
-        text = text.replace('–', ' ')
-        text = text.replace('—', ' ')
-        text = text.replace('-', ' ')
+        text = text.replace("–", " ")
+        text = text.replace("—", " ")
+        text = text.replace("-", " ")
     else:
-        text = text.replace('-', ' ')
-    
+        text = text.replace("-", " ")
+
     # Removes Astericks
-    re_astericks = re.compile(r'\*\S*\*+')
+    re_astericks = re.compile(r"\*\S*\*+")
     text = re_astericks.sub(" ", text).strip()
-    
-    # Remove extra whitespaces 
+
+    # Remove extra whitespaces
     re_extra_whitespaces = re.compile(r"\s+")
-    text = re_extra_whitespaces.sub(" ", text).strip()    
-    
+    text = re_extra_whitespaces.sub(" ", text).strip()
+
     return text.lower()
 
 
@@ -67,10 +69,10 @@ def fix_separated_words(string):
             "in different units particular- ly" --> "in different units particularly"
     """
     re_extra_whitespaces = re.compile(r"\s+")
-    string = re_extra_whitespaces.sub(" ", string).strip()  
-    
-    string = string.replace('- ', '')
-    
+    string = re_extra_whitespaces.sub(" ", string).strip()
+
+    string = string.replace("- ", "")
+
     return string
 
 
@@ -85,7 +87,7 @@ def flesch(text):
 def fog(text):
     r = Readability(text)
     try:
-        return r.smog().score 
+        return r.smog().score
     except:
         return np.nan
 
@@ -93,7 +95,7 @@ def fog(text):
 def smog(text):
     r = Readability(text)
     try:
-        return r.gunning_fog().score 
+        return r.gunning_fog().score
     except:
         return np.nan
 
@@ -101,7 +103,7 @@ def smog(text):
 def terms(text):
     r = Readability(text)
     try:
-        return r.statistics()['num_words']
+        return r.statistics()["num_words"]
     except:
         return np.nan
 
@@ -113,7 +115,7 @@ def uniqueterms(text):
 
 def ttr(text):
     lex = LexicalRichness(text)
-    if lex.words>1:
+    if lex.words > 1:
         return lex.ttr
     else:
         return None
@@ -121,7 +123,7 @@ def ttr(text):
 
 def mtld(text):
     lex = LexicalRichness(text)
-    if lex.words>1:
+    if lex.words > 1:
         return lex.mtld(threshold=0.72)
     else:
         return None
@@ -129,12 +131,14 @@ def mtld(text):
 
 def hdd(text):
     lex = LexicalRichness(text)
-    if lex.words>42:
+    if lex.words > 42:
         return lex.hdd(draws=42)
     else:
         return None
 
 
-import winsound
-def beepme(freq=500,duration=5000):
-    winsound.Beep(freq, duration)
+def check_make_dir(*directories):
+    """If directory does not exist, make it"""
+    for directory in directories:
+        if not os.path.isdir(directory):
+            os.makedirs(directory)
