@@ -1,0 +1,9 @@
+pandas
+pyjanitor
+matplotlib
+numpy
+seaborn
+july
+lexicalrichness
+py-readability-metrics
+statsmodels

@@ -1,0 +1,1001 @@
+entity,nertype,count
+India,GPE,2663981
+Bombay,GPE,1414336
+London,GPE,562127
+US,GPE,499260
+LONDON,GPE,378544
+Pakistan,GPE,377628
+England,GPE,370920
+Delhi,GPE,341290
+China,GPE,318697
+Mumbai,GPE,315222
+Japan,GPE,217216
+Britain,GPE,199481
+France,GPE,183201
+New Delhi,GPE,177574
+Germany,GPE,174104
+Russia,GPE,163780
+Australia,GPE,161189
+New York,GPE,154425
+the United States,GPE,148599
+Paris,GPE,115794
+America,GPE,114455
+South Africa,GPE,91064
+Gujarat,GPE,89929
+Washington,GPE,82815
+Egypt,GPE,80756
+NEW YORK,GPE,79801
+Moscow,GPE,78143
+the Soviet Union,GPE,71869
+Kerala,GPE,70748
+Hindi,GPE,68461
+Burma,GPE,67043
+UK,GPE,66857
+Italy,GPE,66199
+Singapore,GPE,66192
+Canada,GPE,65973
+Iraq,GPE,63340
+Iran,GPE,61678
+Great Britain,GPE,61290
+States,GPE,61016
+Afghanistan,GPE,60689
+Israel,GPE,58657
+New Zealand,GPE,58583
+Bengal,GPE,58418
+Berlin,GPE,56731
+Colaba,GPE,55648
+Bihar,GPE,54147
+Us,GPE,53676
+Turkey,GPE,53503
+Bangladesh,GPE,47526
+Aden,GPE,46650
+Empire,GPE,44725
+Jammu,GPE,44391
+Spain,GPE,44264
+Ireland,GPE,44159
+Sri Lanka,GPE,41253
+Railway,GPE,41197
+Shanghai,GPE,39390
+INDIA,GPE,38768
+Assam,GPE,38511
+Liverpool,GPE,37936
+Santa Cruz,GPE,37195
+Indonesia,GPE,35870
+Hong Kong,GPE,35469
+Cairo,GPE,35048
+Persia,GPE,34048
+Austria,GPE,33605
+Belgium,GPE,33177
+the1,GPE,32964
+Poland,GPE,32323
+Singh,GPE,31492
+Scotland,GPE,31273
+Brazil,GPE,30822
+Malaysia,GPE,30110
+the United Kingdom,GPE,28934
+Geneva,GPE,28745
+UP,GPE,28203
+Holland,GPE,28083
+Wales,GPE,28037
+Switzerland,GPE,27962
+Haryana,GPE,27487
+PARIS,GPE,27384
+Kenya,GPE,27263
+Allahabad,GPE,27055
+West Germany,GPE,26399
+Hyderabad,GPE,25609
+Hollywood,GPE,25243
+Tokyo,GPE,24652
+Andheri,GPE,24450
+WASHINGTON,GPE,24257
+Thailand,GPE,24230
+Cambodia,GPE,24217
+Hongkong,GPE,24200
+Sweden,GPE,24176
+Rome,GPE,23823
+Baghdad,GPE,23692
+Gujarati,GPE,23639
+USA,GPE,23505
+West Indies,GPE,23429
+Antwerp,GPE,23370
+Greece,GPE,23214
+Yugoslavia,GPE,23207
+Syria,GPE,22620
+Korea,GPE,22468
+USSR,GPE,22445
+United States,GPE,22303
+Ahmedabad,GPE,22291
+MD,GPE,22049
+Beijing,GPE,22019
+California,GPE,21794
+Saudi Arabia,GPE,21568
+Hungary,GPE,21499
+Srinagar,GPE,21339
+Mexico,GPE,21238
+Nepal,GPE,20981
+Kabul,GPE,20949
+Dubai,GPE,20690
+Bangkok,GPE,20591
+Philippines,GPE,20528
+Karachi,GPE,20525
+Portugal,GPE,20388
+Teheran,GPE,19926
+Kuwait,GPE,19917
+Peking,GPE,19892
+Vienna,GPE,19867
+Palestine,GPE,19845
+Sholapur,GPE,19774
+Sydney,GPE,19763
+Esq,GPE,19682
+Tibet,GPE,19431
+Melbourne,GPE,19386
+Islamabad,GPE,19280
+Chavan,GPE,19016
+Lieut,GPE,18950
+Bulgaria,GPE,18893
+Lebanon,GPE,18733
+Chicago,GPE,18631
+South Korea,GPE,18559
+Cambridge,GPE,18386
+Hamburg,GPE,18368
+Urdu,GPE,18212
+New Orleans,GPE,17656
+Argentina,GPE,17640
+Rangoon,GPE,17617
+Viet Nam,GPE,17486
+Rajkot,GPE,16777
+Taiwan,GPE,16687
+Belapur,GPE,16554
+Netherlands,GPE,15978
+Denmark,GPE,15574
+Los Angeles,GPE,15177
+Czechoslovakia,GPE,15003
+Cuba,GPE,14901
+Brussels,GPE,14593
+Fort,GPE,14418
+Thana,GPE,14234
+Dharwar,GPE,14096
+Milan,GPE,14029
+Bombay City,GPE,13990
+Trivandrum,GPE,13501
+Doordarshan,GPE,13491
+Satara,GPE,13457
+Norway,GPE,13453
+The United States,GPE,13257
+Algeria,GPE,13151
+Madrid,GPE,13030
+Sudan,GPE,13022
+Zimbabwe,GPE,12866
+Lahore,GPE,12711
+Borne,GPE,12705
+Karnataka,GPE,12666
+Sharma,GPE,12455
+Maharaja,GPE,12453
+Basra,GPE,12417
+Amsterdam,GPE,12407
+Birmingham,GPE,12267
+Congo,GPE,12201
+Rumania,GPE,12079
+Morocco,GPE,12015
+Malabar,GPE,11868
+Vidarbha,GPE,11484
+the British Empire,GPE,11459
+Libya,GPE,11403
+Venice,GPE,11374
+Mahableshwar,GPE,11355
+Malta,GPE,11326
+Hanoi,GPE,11220
+Krishna,GPE,11216
+United Kingdom,GPE,11105
+Vietnam,GPE,11053
+Province,GPE,11044
+Jaipur,GPE,11044
+ho,GPE,10984
+Bangalore,GPE,10966
+Wellington,GPE,10905
+Manila,GPE,10786
+Poona,GPE,10746
+Laos,GPE,10699
+Madras,GPE,10665
+la,GPE,10502
+Germanys,GPE,10413
+Baroda,GPE,10384
+Finland,GPE,10296
+Britannia,GPE,10164
+Renter,GPE,10144
+Canton,GPE,10093
+Kandahar,GPE,10086
+Texas,GPE,10064
+East Africa,GPE,10009
+IA,GPE,9983
+Manipur,GPE,9954
+Maruti,GPE,9899
+Beirut,GPE,9876
+Dublin,GPE,9847
+Karnatak,GPE,9826
+Jordan,GPE,9801
+Salem,GPE,9683
+Madhya Pradesh,GPE,9447
+North Korea,GPE,9446
+Jerusalem,GPE,9393
+Saigon,GPE,9371
+MM,GPE,9352
+Harijan,GPE,9339
+Florida,GPE,9227
+Prague,GPE,8962
+Sri Lankan,GPE,8914
+JAPAN,GPE,8850
+Sheffield,GPE,8838
+Mysore,GPE,8821
+Bollywood,GPE,8792
+moro,GPE,8730
+Ceylon,GPE,8576
+Belgrade,GPE,8574
+Bonn,GPE,8574
+Kobe,GPE,8499
+Seoul,GPE,8378
+Phoenix,GPE,8346
+Uganda,GPE,8346
+San Francisco,GPE,8308
+Warsaw,GPE,8263
+The Soviet Union,GPE,8250
+BRITAIN,GPE,8208
+Boston,GPE,8180
+Meerut,GPE,8178
+Nairobi,GPE,8125
+Shillong,GPE,8085
+Queens,GPE,8050
+Jakarta,GPE,7886
+Middlesex,GPE,7854
+Venezuela,GPE,7843
+Johannesburg,GPE,7818
+Telengana,GPE,7728
+Kargil,GPE,7688
+Ludhiana,GPE,7655
+Bhutan,GPE,7614
+Munich,GPE,7604
+Vajpayee,GPE,7527
+the West Indies,GPE,7508
+Barcelona,GPE,7492
+Indiana,GPE,7489
+Mecca,GPE,7406
+Ethiopia,GPE,7373
+Jodhpur,GPE,7317
+Ratnagiri,GPE,7281
+SYDNEY,GPE,7266
+Bijapur,GPE,7252
+Nehru,GPE,7238
+Patiala,GPE,7235
+GDR,GPE,7220
+Newcastle,GPE,7198
+and1,GPE,7104
+Andhra,GPE,7085
+Pretoria,GPE,7007
+Edinburgh,GPE,6966
+Krishnan,GPE,6888
+East Germany,GPE,6836
+Jehangir,GPE,6814
+Jawaharlal,GPE,6804
+Kathmandu,GPE,6778
+Secretariat,GPE,6775
+Karwar,GPE,6744
+Victoria,GPE,6738
+Manchuria,GPE,6683
+Zurich,GPE,6650
+Yemen,GPE,6648
+Kathiawar,GPE,6566
+Cotton,GPE,6552
+Kuala Lumpur,GPE,6533
+White Delhi,GPE,6528
+Nigeria,GPE,6491
+New Moon,GPE,6468
+Chile,GPE,6444
+Navi,GPE,6381
+Rhodesia,GPE,6326
+Toronto,GPE,6306
+Madhu,GPE,6278
+Bhiwandi,GPE,6263
+Ranchi,GPE,6261
+Patna,GPE,6229
+Jalgaon,GPE,6136
+IU,GPE,6132
+Rawalpindi,GPE,6121
+Tunisia,GPE,6116
+FRANCE,GPE,6086
+Vashi,GPE,6071
+Bombay Delhi,GPE,6048
+Stockholm,GPE,6032
+CHINA,GPE,6029
+Cabul,GPE,6019
+Southampton,GPE,5983
+Ukraine,GPE,5982
+ST,GPE,5903
+VT,GPE,5901
+Athens,GPE,5885
+Lisbon,GPE,5863
+Philadelphia,GPE,5825
+Jamaica,GPE,5820
+Mooltan,GPE,5819
+Ghana,GPE,5735
+South Africas,GPE,5731
+Damascus,GPE,5727
+Belfast,GPE,5726
+Viceroys,GPE,5722
+prc,GPE,5676
+Ispat,GPE,5613
+Soviet Union,GPE,5600
+Peru,GPE,5598
+Kalyan,GPE,5597
+Chittagong,GPE,5574
+TIMES CITY,GPE,5552
+Ohio,GPE,5544
+Kolkata,GPE,5523
+Albania,GPE,5476
+tiro,GPE,5460
+Georgia,GPE,5456
+Dacca,GPE,5422
+Prussia,GPE,5418
+Mantralaya,GPE,5413
+Mahajan,GPE,5405
+Colonies,GPE,5384
+Trinidad,GPE,5359
+Gauhati,GPE,5335
+Oxford,GPE,5328
+Marseilles,GPE,5322
+Cholera,GPE,5316
+Kolaba,GPE,5309
+Formosa,GPE,5264
+Naples,GPE,5260
+Kanpur,GPE,5250
+Tripoli,GPE,5243
+Matunga,GPE,5242
+Ks,GPE,5233
+West Zone,GPE,5226
+Ganga,GPE,5218
+Khartoum,GPE,5182
+Scindia,GPE,5122
+Companys,GPE,5106
+Lansdowne,GPE,5005
+md,GPE,4994
+Ottawa,GPE,4937
+Angola,GPE,4923
+Poonam,GPE,4908
+Virginia,GPE,4875
+New Jersey,GPE,4873
+Panama,GPE,4856
+Atlanta,GPE,4848
+Menon,GPE,4789
+Miami,GPE,4761
+Queensland,GPE,4739
+Andhra Pradesh,GPE,4714
+Independence,GPE,4708
+TOI,GPE,4691
+Amravati,GPE,4636
+Jeddah,GPE,4629
+Midland,GPE,4623
+Serbia,GPE,4623
+Havana,GPE,4607
+Kapadia,GPE,4597
+Sunil,GPE,4588
+Mongolia,GPE,4585
+Mandir,GPE,4585
+Sunset,GPE,4575
+Santa,GPE,4571
+Bhavnagar,GPE,4568
+Osaka,GPE,4566
+Sugar,GPE,4552
+Tarapur,GPE,4525
+MOSCOW,GPE,4492
+Tripura,GPE,4492
+Gaza,GPE,4483
+New City,GPE,4465
+Anand,GPE,4446
+Bosnia,GPE,4443
+Kolhapur,GPE,4430
+Nagaland,GPE,4419
+Romania,GPE,4378
+Tardeo,GPE,4363
+Junagadh,GPE,4361
+LA,GPE,4348
+iU,GPE,4337
+the United States of America,GPE,4327
+North Africa,GPE,4313
+Dallas,GPE,4307
+india,GPE,4302
+Thane,GPE,4275
+Salisbury,GPE,4269
+Karad,GPE,4261
+Bahrain,GPE,4261
+Baluchistan,GPE,4231
+Jubbulpore,GPE,4228
+Indu,GPE,4227
+Tanzania,GPE,4215
+Muscat,GPE,4213
+Kirkee,GPE,4213
+Ill,GPE,4202
+Kandivli,GPE,4193
+0,GPE,4180
+Penang,GPE,4173
+UU,GPE,4165
+Northern Ireland,GPE,4161
+Native States,GPE,4159
+colonies,GPE,4151
+Cleveland,GPE,4116
+Raipur,GPE,4096
+Franco,GPE,4094
+32,GPE,4080
+Myanmar,GPE,4072
+Fiji,GPE,4066
+Frankfurt,GPE,4062
+I.C.S.,GPE,4061
+Houston,GPE,4059
+Rajasthan,GPE,4041
+Nicaragua,GPE,4014
+Hon'ble,GPE,4004
+Hampshire,GPE,4004
+64,GPE,4001
+Colombia,GPE,3998
+Lancashire,GPE,3958
+Goswami,GPE,3948
+Tandon,GPE,3922
+Mag,GPE,3911
+Parsee,GPE,3909
+Qatar,GPE,3905
+Meghalaya,GPE,3897
+Broach,GPE,3881
+St. Petersburg,GPE,3854
+St Petersburg,GPE,3839
+Iudia,GPE,3838
+Nanavati,GPE,3834
+Somalia,GPE,3828
+Voltas,GPE,3822
+NEW DELHI,GPE,3806
+Oman,GPE,3802
+Municipality,GPE,3784
+Marathwada,GPE,3779
+Tamil,GPE,3770
+Chota,GPE,3745
+Bokhara,GPE,3741
+Mayawati,GPE,3733
+Sewree,GPE,3721
+Canterbury,GPE,3710
+Abadan,GPE,3673
+Budapest,GPE,3671
+58,GPE,3669
+Consul,GPE,3651
+Dhulia,GPE,3628
+Hiroshima,GPE,3621
+Ihu,GPE,3616
+china,GPE,3616
+Dover,GPE,3603
+Mesopotamia,GPE,3595
+Hindustani,GPE,3590
+Bolsheviks,GPE,3573
+Bradford,GPE,3570
+Manhattan,GPE,3567
+Burdwan,GPE,3551
+Tel Aviv,GPE,3536
+Bombay State,GPE,3532
+allIndia,GPE,3529
+Fort William,GPE,3518
+New South Wales,GPE,3513
+Iraqs,GPE,3507
+Pennsylvania,GPE,3502
+TADA,GPE,3492
+Zambia,GPE,3488
+Leeds,GPE,3485
+Diwali,GPE,3479
+Calcutta,GPE,3461
+Macao,GPE,3451
+Nagpada,GPE,3441
+Bombay Colaba,GPE,3436
+West Berlin,GPE,3433
+Darjeeling,GPE,3421
+Amman,GPE,3413
+SC,GPE,3410
+Alaska,GPE,3395
+Narmada,GPE,3392
+SRINAGAR,GPE,3385
+Titan,GPE,3375
+B.A.,GPE,3371
+Yokohama,GPE,3367
+Indus,GPE,3363
+Tsar,GPE,3362
+Massachusetts,GPE,3360
+i0,GPE,3354
+Urn,GPE,3350
+Rajputana,GPE,3343
+Mombasa,GPE,3343
+Hilton,GPE,3341
+Veerappan,GPE,3339
+Calicut,GPE,3332
+GERMANY,GPE,3327
+Bushire,GPE,3327
+The1,GPE,3323
+Ambala,GPE,3320
+Buckingham,GPE,3317
+West Africa,GPE,3311
+Arabia,GPE,3281
+Greenwich,GPE,3278
+Quoting,GPE,3267
+Plymouth,GPE,3267
+Brighton,GPE,3261
+Kuwaiti,GPE,3252
+Maine,GPE,3250
+West Bengal,GPE,3250
+Kulkarni,GPE,3242
+New Guinea,GPE,3212
+Montreal,GPE,3203
+Buoh,GPE,3202
+Richmond,GPE,3197
+ADEN,GPE,3197
+Cologne,GPE,3184
+Burmas,GPE,3171
+Council,GPE,3165
+NEW ORLEANS,GPE,3163
+Mahalaxmi,GPE,3157
+New Empire,GPE,3151
+Madagascar,GPE,3151
+Visakhapatnam,GPE,3140
+Guinea,GPE,3136
+Santa Cruz Maximum,GPE,3133
+Kanara,GPE,3126
+Harbhajan,GPE,3116
+Powai,GPE,3108
+Namibia,GPE,3102
+Tashkent,GPE,3097
+Auckland,GPE,3087
+North,GPE,3084
+Ecuador,GPE,3073
+Calico,GPE,3067
+NC,GPE,3052
+Ankara,GPE,3029
+SB,GPE,3017
+Oolaba,GPE,3010
+Cannes,GPE,3001
+.t,GPE,2994
+L1,GPE,2990
+South Mumbai,GPE,2987
+Maharashtra,GPE,2970
+Sardesai,GPE,2962
+Orissa,GPE,2954
+Maroh,GPE,2952
+Nawab,GPE,2951
+Baltimore,GPE,2950
+Istanbul,GPE,2938
+Bhopal,GPE,2928
+M.A.,GPE,2922
+Sania,GPE,2902
+New,GPE,2897
+Sirpur,GPE,2889
+Bassein,GPE,2883
+EGYPT,GPE,2882
+Manchester City,GPE,2876
+Rama,GPE,2871
+Haiti,GPE,2859
+IO,GPE,2851
+Vancouver,GPE,2848
+Hankow,GPE,2833
+Abu Dhabi,GPE,2825
+Narasimha,GPE,2823
+Macedonia,GPE,2818
+Canberra,GPE,2815
+Detroit,GPE,2799
+Narayan,GPE,2794
+va,GPE,2769
+Uruguay,GPE,2764
+Shipping,GPE,2761
+MUMBAI,GPE,2759
+Leningrad,GPE,2756
+Mumbaikars,GPE,2755
+Warren,GPE,2753
+Padamsee,GPE,2747
+Bolivia,GPE,2746
+C.B.,GPE,2738
+Kamat,GPE,2736
+Mongia,GPE,2734
+the West Bank,GPE,2728
+Kotah,GPE,2719
+Jharkhand,GPE,2716
+Wardha,GPE,2712
+Narredu,GPE,2706
+Uombay,GPE,2706
+Khairnar,GPE,2705
+Malaya,GPE,2695
+Iceland,GPE,2677
+Goregaon,GPE,2674
+Quebec,GPE,2669
+thi3,GPE,2659
+Khalsa,GPE,2657
+RCF,GPE,2646
+Kiwis,GPE,2632
+the City of Bombay,GPE,2631
+Viet Minh,GPE,2627
+Mosul,GPE,2625
+Parvati,GPE,2616
+Hawaii,GPE,2616
+British Empire,GPE,2609
+Elysia,GPE,2593
+Soudan,GPE,2590
+Rawat,GPE,2586
+Seattle,GPE,2585
+Kngland,GPE,2584
+Kannan,GPE,2581
+Akbar,GPE,2580
+EU,GPE,2577
+Darbar,GPE,2575
+Instl,GPE,2553
+6h,GPE,2552
+Mahomedan,GPE,2552
+Sindh,GPE,2551
+Hitlers,GPE,2542
+Texmaco,GPE,2542
+Arizona,GPE,2532
+Luxembourg,GPE,2532
+Mercara,GPE,2528
+Sankey,GPE,2524
+Addis Ababa,GPE,2519
+Greater Bombay,GPE,2519
+Mukerjee,GPE,2517
+Wheat,GPE,2517
+Harvey,GPE,2513
+Colorado,GPE,2513
+UAE,GPE,2508
+Sind,GPE,2506
+Vijayawada,GPE,2505
+Lithuania,GPE,2504
+Las Vegas,GPE,2503
+Nanded,GPE,2498
+Hukumchand,GPE,2497
+Henderson,GPE,2494
+Navys,GPE,2491
+Messrs,GPE,2467
+Alexandria,GPE,2466
+Malegaon,GPE,2461
+Wadhwan,GPE,2459
+Rotary,GPE,2454
+West Pakistan,GPE,2451
+West Bank,GPE,2451
+Smith,GPE,2447
+Thibet,GPE,2447
+Telangana,GPE,2445
+Banaras,GPE,2443
+Hombay,GPE,2440
+Chandra,GPE,2437
+Tohra,GPE,2430
+Gibraltar,GPE,2423
+Maryland,GPE,2420
+Tndia,GPE,2417
+Frontier Province,GPE,2417
+New York City,GPE,2415
+Viet Cong,GPE,2405
+Bhilai,GPE,2393
+us,GPE,2392
+Nicobar,GPE,2383
+Aamir,GPE,2365
+Thou,GPE,2365
+JD,GPE,2364
+the Indian States,GPE,2363
+MELBOURNE,GPE,2360
+Mizoram,GPE,2358
+Pune,GPE,2354
+Major,GPE,2354
+Belle,GPE,2347
+Mathura,GPE,2345
+Mukand,GPE,2344
+Tirupati,GPE,2341
+Australias,GPE,2339
+Punjaub,GPE,2329
+Kingdom,GPE,2326
+Croatia,GPE,2316
+Prince,GPE,2312
+Karanji,GPE,2308
+Palghar,GPE,2299
+Medina,GPE,2299
+Ballarpur,GPE,2299
+Murray,GPE,2297
+Imagine,GPE,2295
+JI,GPE,2293
+THE CITY,GPE,2291
+thV,GPE,2281
+Chesterfield,GPE,2279
+Mankad,GPE,2273
+Lands,GPE,2269
+South Zone,GPE,2268
+Tasmania,GPE,2264
+Vinay,GPE,2255
+North Zone,GPE,2255
+Upper Burma,GPE,2252
+Yunnan,GPE,2251
+Vehar,GPE,2250
+Leyland,GPE,2249
+Kala,GPE,2244
+Durbar,GPE,2242
+Bombay Province,GPE,2237
+Santa Barbara,GPE,2237
+Island,GPE,2235
+Capetown,GPE,2234
+Akyab,GPE,2230
+Poona City,GPE,2226
+Mexico City,GPE,2226
+Latur,GPE,2222
+Equip,GPE,2212
+Honolulu,GPE,2211
+District,GPE,2209
+Costa Rica,GPE,2203
+Koli,GPE,2203
+SPAIN,GPE,2200
+Westminster,GPE,2192
+Sabarmati,GPE,2189
+BB,GPE,2189
+Kosovo,GPE,2176
+Oabul,GPE,2173
+Taipei,GPE,2165
+Azerbaijan,GPE,2165
+Norfolk,GPE,2165
+Gurdaspur,GPE,2161
+Guyana,GPE,2150
+DC,GPE,2139
+Warden,GPE,2131
+Nagpore,GPE,2128
+Oklahoma,GPE,2119
+Sofia,GPE,2110
+Katanga,GPE,2109
+the Indian Union,GPE,2105
+Sussex,GPE,2101
+Chatham,GPE,2101
+panchayati,GPE,2092
+Bills,GPE,2086
+Bhajan,GPE,2077
+Jalpaiguri,GPE,2068
+Armenia,GPE,2068
+Riyadh,GPE,2067
+Lonavla,GPE,2063
+Shabana,GPE,2060
+Pyongyang,GPE,2056
+Turin,GPE,2056
+Galle,GPE,2044
+Monaco,GPE,2043
+East Pakistan,GPE,2042
+Kamala,GPE,2041
+Gupte,GPE,2041
+Umrigar,GPE,2033
+Senapati,GPE,2031
+Influx,GPE,2027
+Guru,GPE,2027
+SINGAPORE,GPE,2025
+Baku,GPE,2024
+Nevada,GPE,2006
+Lokhandwala,GPE,2006
+Agassi,GPE,1996
+Sri Lankas,GPE,1993
+Saharanpur,GPE,1988
+Cherrapunji,GPE,1987
+Strand,GPE,1982
+Ahmednagar,GPE,1981
+Secunderabad,GPE,1977
+Viramgam,GPE,1977
+Cochin,GPE,1976
+Jellalabad,GPE,1970
+Orlando,GPE,1968
+Akola,GPE,1965
+Oregon,GPE,1963
+Jessop,GPE,1960
+Alabama,GPE,1955
+Mississippi,GPE,1951
+Providence,GPE,1945
+Madurai,GPE,1943
+Ilia,GPE,1941
+Kumar,GPE,1940
+Durgapur,GPE,1940
+Lyallpur,GPE,1936
+Khetwadi,GPE,1933
+Arkansas,GPE,1921
+Holi,GPE,1921
+Navigation Companys,GPE,1917
+R.A.,GPE,1916
+Hindutva,GPE,1913
+Mysore State,GPE,1911
+Baria,GPE,1907
+Undertaking,GPE,1904
+Montenegro,GPE,1902
+Kareena,GPE,1902
+Simla,GPE,1900
+Deolali,GPE,1894
+Kingston,GPE,1893
+TURKEY,GPE,1891
+Caledonia,GPE,1888
+Haifa,GPE,1887
+Mis,GPE,1884
+Pondicherry,GPE,1879
+Gaya,GPE,1877
+the United Arab Republic,GPE,1870
+Songs,GPE,1863
+Sarabhai,GPE,1861
+Borivli,GPE,1859
+Sporting,GPE,1849
+Albemarle,GPE,1849
+Tehran,GPE,1849
+Faridabad,GPE,1843
+Advani,GPE,1843
+Michigan,GPE,1841
+Kanhai,GPE,1840
+Wadala,GPE,1839
+Uzbekistan,GPE,1837
+Hague,GPE,1834
+Kiran,GPE,1833
+Indochina,GPE,1833
+Kalimpong,GPE,1827
+Johnston,GPE,1827
+M.D.,GPE,1826
+Yorkshire,GPE,1822
+Illinois,GPE,1822
+Palmerston,GPE,1818
+Zaire,GPE,1815
+Kumbharwada,GPE,1812
+East Zone,GPE,1807
+Dundee,GPE,1792
+quito,GPE,1790
+Kazakhstan,GPE,1787
+Abbott,GPE,1783
+Bremen,GPE,1782
+Chandrasekhar,GPE,1779
+Peshawur,GPE,1775
+Helsinki,GPE,1773
+AMERICA,GPE,1769
+Brindisi,GPE,1766
+Nagasaki,GPE,1763
+tho United States,GPE,1762
+Sardinia,GPE,1756
+EROS,GPE,1753
+Missouri,GPE,1752
+L,GPE,1750
+Ills,GPE,1750
+Riga,GPE,1749
+Smyrna,GPE,1748
+Utah,GPE,1748
+N,GPE,1738
+Leipzig,GPE,1737
+El Salvador,GPE,1736
+Pooja,GPE,1734
+Baramati,GPE,1734
+Bradford City,GPE,1733
+Tezpur,GPE,1732
+Cincinnati,GPE,1727
+Vinod,GPE,1724
+Lagos,GPE,1724
+Chechnya,GPE,1721
+Guatemala,GPE,1720
+BEIJING,GPE,1718
+Aarey,GPE,1715
+Minnesota,GPE,1715
+Ghaziabad,GPE,1714
+Satya,GPE,1711
+I860,GPE,1709
+Bussia,GPE,1704
+Sarajevo,GPE,1695
+Jaffna,GPE,1691
+Nijalingappa,GPE,1690
+Tottenham,GPE,1689
+Tihar,GPE,1680
+Thackeray,GPE,1674
+Louisiana,GPE,1668
+Mumbaiites,GPE,1667
+Vandana,GPE,1665
+anJ,GPE,1664
+Latvia,GPE,1663
+Vicar,GPE,1657
+Nagpur,GPE,1656
+Nuremberg,GPE,1650
+Tigris,GPE,1647
+Hinduja,GPE,1646
+Moonset,GPE,1645
+Pankaj,GPE,1645
+anil,GPE,1643
+Vaitarna,GPE,1641
+37,GPE,1632
+Monghyr,GPE,1631
+Washington DC,GPE,1628
+Imphal,GPE,1627
+Tyabjee,GPE,1624
+Louis,GPE,1623
+121bs,GPE,1620
+Full Moon,GPE,1618
+Doha,GPE,1617
+Bhoodan,GPE,1614
+Bind,GPE,1610
+YORK,GPE,1609
+Connecticut,GPE,1606
+Tennessee,GPE,1602
+Uie,GPE,1600
+the Soviet Government,GPE,1599
+Paranjpe,GPE,1598
+Motilal,GPE,1596
+Waziristan,GPE,1596
+Cambay,GPE,1590
+Islands,GPE,1590
+C.S.,GPE,1590
+Fairfax,GPE,1588
+Solapur,GPE,1586
+The Hague,GPE,1584
+Kabir,GPE,1584
+Saudi Arabia 3,GPE,1579
+Brooklyn,GPE,1579
+Cooperage,GPE,1577
+Swati,GPE,1576
+Dharamsi,GPE,1574
+Imtiaz,GPE,1572
+Honduras,GPE,1570
+Dividends,GPE,1569
+Lakshml,GPE,1568
+Sinkiang,GPE,1566
+Lhasa,GPE,1565
+BP,GPE,1565
+Ihc,GPE,1564
+conand,GPE,1563
+Iowa,GPE,1560
+Nirvana,GPE,1559
+49,GPE,1557
+Nyasaland,GPE,1552
+Oshiwara,GPE,1551
+Berbera,GPE,1549
+morgue,GPE,1549
+Nicosia,GPE,1548
+MADRAS,GPE,1547
+Ambica,GPE,1541
+Kentucky,GPE,1537
+Noida,GPE,1534
+Bavaria,GPE,1531
+Lucknow,GPE,1530
+Sao Paulo,GPE,1528
+Jacobabad,GPE,1528
+Rifles,GPE,1525
+Jabalpur,GPE,1525
+Lower Burma,GPE,1522
+Mergui,GPE,1517
+Keralas,GPE,1517
+Bagdad,GPE,1509
+Milton,GPE,1507
+Hyderabad State,GPE,1504
+Portland,GPE,1503
+Brunei,GPE,1498
+Kalpana,GPE,1496
+Vijaya,GPE,1494
+Lausanne,GPE,1492
+Gurkhas,GPE,1492
+Modi,GPE,1491
+Sharjah,GPE,1480
+Bombay Municipality,GPE,1478
+Liberia,GPE,1474
+Newton,GPE,1471
+Estonia,GPE,1468
+Raigad,GPE,1468
+Kochi,GPE,1468
+Moldavia,GPE,1464
+Fanaswadi,GPE,1464
+Newmarket,GPE,1463
+N.I.,GPE,1460
+Bahamas,GPE,1459
+South Wales,GPE,1459
+Malad,GPE,1458
+rM,GPE,1457
+Calais,GPE,1456
+Mahaluxmi,GPE,1454
+Nadia,GPE,1454
+Sunderland,GPE,1453
+Chem,GPE,1451
+Adjt,GPE,1447
+Kansas,GPE,1445
+Meena,GPE,1442
+Guntur,GPE,1440
+Indian States,GPE,1437
+Deesa,GPE,1436
+Pokhran,GPE,1435
+turkey,GPE,1435
+Tipu,GPE,1434
+Kamal,GPE,1433
+MANILA,GPE,1433
+British Columbia,GPE,1432
+CANADA,GPE,1432
+Tinnevelly,GPE,1432
+Md,GPE,1432
