@@ -7,7 +7,7 @@ import os
 
 
 def clean_transcripts(text):
-    """ This function applies minimal normalisation to transcript texts:
+    """ This function applies minimal normalization to transcript texts:
     
         * Removes parentheses and texts in them (e.g. (END VIDEO CLIP))
         

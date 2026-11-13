@@ -31,7 +31,7 @@ root = "/home/users/apoorval/aa_home/ToI/"
 ######################################################################
 # first zip
 xmls1 = glob.glob(root + 'raw/xml1/' + "*.xml")
-# parallelise across 16 cores
+# parallelize across 16 cores
 res = Parallel(n_jobs = 16)(delayed(toiParse)(x) for x in xmls1)
 # convert to dataframe
 df = pd.DataFrame(res)
@@ -41,7 +41,7 @@ df.to_csv(root + "outData/ToIData1.csv")
 ######################################################################
 
 xmls2 = glob.glob(root + 'raw/xml2/' + "*.xml")
-# parallelise across 16 cores
+# parallelize across 16 cores
 res = Parallel(n_jobs = 16)(delayed(toiParse)(x) for x in xmls2)
 # convert to dataframe
 df = pd.DataFrame(res)
@@ -51,7 +51,7 @@ df.to_csv(root + "outData/ToIData2.csv")
 ######################################################################
 
 xmls3 = glob.glob(root + 'raw/xml3/' + "*.xml")
-# parallelise across 16 cores
+# parallelize across 16 cores
 res = Parallel(n_jobs = 16)(delayed(toiParse)(x) for x in xmls3)
 # convert to dataframe
 df = pd.DataFrame(res)
@@ -61,7 +61,7 @@ df.to_csv(root + "outData/ToIData3.csv")
 ######################################################################
 
 xmls4 = glob.glob(root + 'raw/xml4/' + "*.xml")
-# parallelise across 16 cores
+# parallelize across 16 cores
 res = Parallel(n_jobs = 16)(delayed(toiParse)(x) for x in xmls4)
 # convert to dataframe
 df = pd.DataFrame(res)
